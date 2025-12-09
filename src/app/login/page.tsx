@@ -54,7 +54,7 @@ export default function LoginPage() {
           <div className="text-center text-sm text-muted-foreground">
             <p>Đăng nhập bằng tài khoản Google của trường</p>
             <p className="text-xs mt-1">
-              (Chỉ chấp nhận email @truongy.edu.vn)
+              (Chỉ chấp nhận email @eiu.edu.vn)
             </p>
           </div>
 
